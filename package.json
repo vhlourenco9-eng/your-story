@@ -1,6 +1,6 @@
 {
-  "name": "peertube",
-  "description": "PeerTube, an ActivityPub-federated video streaming platform using P2P directly in your web browser.",
+  "name": "your-istory",
+  "description": "your-istory, an ActivityPub-federated video streaming platform using P2P directly in your web browser.",
   "version": "8.2.2",
   "private": true,
   "license": "AGPL-3.0",
